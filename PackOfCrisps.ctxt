@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=PackOfCrisps
+comment1.params=flavour
+comment1.target=PackOfCrisps(java.lang.String)
+comment2.params=
+comment2.target=boolean\ isClosed()
+comment3.params=
+comment3.target=boolean\ isEmpty()
+comment4.params=
+comment4.target=void\ open()
+comment5.params=
+comment5.target=java.lang.String\ getFlavour()
+comment6.params=
+comment6.target=void\ eatCrisp()
+numComments=7

@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=SnackMachine
+comment1.params=capacityOfMachine\ costOfAPacket
+comment1.target=SnackMachine(int,\ int)
+comment2.params=
+comment2.target=void\ describe()
+comment3.params=
+comment3.target=int\ getCost()
+comment4.params=flavour
+comment4.target=int\ countPacks(java.lang.String)
+comment5.params=flavour
+comment5.target=PackOfCrisps\ buyPack(java.lang.String)
+comment6.params=pack
+comment6.target=void\ addPack(PackOfCrisps)
+comment7.params=penny
+comment7.target=void\ insertMoney(Penny)
+numComments=8

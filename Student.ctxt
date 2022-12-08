@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Student
+comment1.params=flavour\ machine
+comment1.target=Student(java.lang.String,\ SnackMachine)
+comment2.params=
+comment2.target=void\ buyCrisps()
+comment3.params=
+comment3.target=void\ snackTime()
+numComments=4

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Pocket
+comment1.params=sizeOfPocket
+comment1.target=Pocket(int)
+comment2.params=
+comment2.target=int\ pennyCount()
+comment3.params=
+comment3.target=Penny\ removePenny()
+numComments=4

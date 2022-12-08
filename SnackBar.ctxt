@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=SnackBar
+comment0.text=\r\n\ The\ SnackBar\ class\ represents\ a\ snack\ bar\ at\ a\ school\ that\ contians\ a\ snack\ machine\ (utilizing\ the\ SnackMachine\ class).\r\n\ It\ is\ also\ used\ as\ the\ entry\ point\ for\ the\ program\ with\ the\ "main"\ function.\r\n\ \r\n\ @author\ \ Alexander\ Noles\r\n\ @version\ 1.0\r\n
+comment1.params=numberOfStudents\ numberOfPacketsOfCrisps\ packetCost
+comment1.target=SnackBar(int,\ int,\ int)
+comment1.text=\r\n\ Constructor\ for\ SnackBar\r\n\r\n\ @param\ numberOfStudents\ An\ integer\ representing\ the\ number\ of\ students\ in\ the\ snack\ bar\r\n\ @param\ numberOfPacketsOfCrisps\ An\ integer\ representing\ the\ number\ of\ packets\ of\ crisps\ in\ the\ snack\ machine\r\n\ @param\ packetCost\ An\ integer\ representing\ the\ cost\ of\ a\ packet\ from\ the\ machine\r\n
+comment2.params=
+comment2.target=java.lang.String\ randomFlavour()
+comment2.text=\r\n\ Gives\ us\ a\ random\ flavour\ from\ the\ flavour\ array\r\n\r\n\ @return\ A\ string\ that\ is\ one\ of\ the\ flavours\r\n
+comment3.params=
+comment3.target=void\ describe()
+comment3.text=\r\n\ Prints\ the\ current\ state\ of\ the\ snack\ bar\ to\ console\ as\ follows\r\n\ The\ SnackBar\ has\ (n)\ hungry\ students\r\n\ The\ SnackMachine\ has\:\r\n\ (m)\ packet(s)\ of\ (flavour1)\ crisps\r\n\ (q)\ packet(s)\ of\ (flavour2)\ crisps\r\n\ ...\r\n
+comment4.params=nSteps
+comment4.target=void\ runSnackBar(int)
+comment4.text=\r\n\ Gives\ us\ a\ random\ flavour\ from\ the\ flavour\ array\r\n\r\n\ @param\ nSteps\ An\ integer\ representing\ the\ number\ of\ steps\ to\ execute\r\n
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+comment5.text=\r\n\ Entry\ point\ for\ the\ program,\ runs\ when\ SnackBar\ is\ called\ from\ terminal\r\n\r\n\ @param\ args[0]\ A\ string\ that\ will\ be\ converted\ to\ an\ integer\ representing\ the\ number\ of\ students\r\n\ @param\ args[1]\ A\ string\ that\ will\ be\ converted\ to\ an\ integer\ representing\ the\ number\ of\ steps\r\n
+numComments=6
